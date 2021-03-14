@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BSS</string>
+    <string name="logo">Bitter Sweet Sour</string>
+    <string name="total">Toplam</string>
+    <string name="delivery">Teslimat Ücreti</string>
+    <string name="toplam_urun_fiyati">Toplam Ürün Fiyatı</string>
+    <string name="siparis_ver">Sipariş Ver</string>
+    <string name="sepete_ekle">Sepete Ekle</string>
+    <string name="ekle">Ekle</string>
+    <string name="interest">Daha fazlasını sepete ekle</string>
+    <string name="title_activity_harita">Harita</string>
+    <string name="success_title">Sepete Ekleme Başarılı !</string>
+    <string name="adet"> adet </string>
+    <string name="basariyla_ekleme"> sepetinize başarıyla eklenmiştir.</string>
+    <string name="sepete_git">Sepete Git</string>
+    <string name="alisverise_devam">Alışverişe Devam Et</string>
+    <string name="sepete_eklendi"> sepete eklendi!</string>
+    <string name="sepetten_silindi"> sepetten silindi!</string>
+    <string name="adet_secme_mesaj">Lütfen eklemek istediğiniz yemek adetini belirtin</string>
+    <string name="siparis_verildi_title">Sipariş Verildi!</string>
+    <string name="siparis_verildi_msj">Siparişiniz başarıyla gerçekleşmiştir."</string>
+    <string name="anasayfaya_don">Anasayfa Dön</string>
+    <string name="tum_yemekler_silindi_msj">Tüm yemekler sepetten silindi!</string>
+    <string name="izin_kabul_edildi">İzin Kabul Edildi!</string>
+    <string name="izin_rededildi">İzin Reddedildi!</string>
+</resources>

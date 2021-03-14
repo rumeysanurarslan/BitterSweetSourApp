@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_ara"
+        android:icon="@drawable/search_icon"
+        android:title="Ara"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+    <item
+        android:id="@+id/action_harita"
+        android:icon="@drawable/konum_icon"
+        android:title="Harita"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/action_sil"
+        android:icon="@drawable/tumunu_sil"
+        android:title="Tümünü Sil"
+        app:showAsAction="always|collapseActionView" />
+</menu>
